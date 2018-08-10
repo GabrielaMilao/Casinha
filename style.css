@@ -1,0 +1,190 @@
+*{
+	padding: 0;
+	margin: 0;
+    box-sizing: border-box;
+}
+
+.tela {
+	width: 100vw;
+	height: 100vh;
+	background-color:#03a9f4c9;
+	position: relative;
+}
+.mato{
+	width: 100vw;
+	height: 175px;
+	background-color: green;
+	position: absolute;
+	bottom:0 ;
+}
+.casa{
+	width: 400px;
+    height: 300px;
+    background-color: #7c358ef0;
+    position: relative;
+    top: 30%;
+    left: 57px;
+
+}
+.teto1{
+    width: 493px;
+    height: 65px;
+    background-color: #48281c;
+    position: relative;
+    top: -17%;
+    left: 12px;
+}
+.teto2{
+ 	width: 416px;
+    height: 60px;
+    background-color: #48281c;
+    position: relative;
+    top: -34%;
+    left: 49px;
+}
+.janela{
+	width: 110px;
+    height: 88px;
+    background-color: #151414ad;
+    position: relative;
+    top: -14%;
+    left: 115px;
+}
+.porta{
+	width: 97px;
+    height: 197px;
+    background-color: #48281c;
+    position: relative;
+    left: 285px;
+    top: -28%;
+}
+.macaneta{
+	width: 14px;
+    height: 4px;
+    background-color: #8a807d;
+    position: relative;
+    left: 344px;
+    top: -42%;
+}
+.fechadura{
+	width: 15px;
+    height: 13px;
+    border-radius: 50%;
+    background-color: #8a807d;
+    position: relative;
+    left: 355px;
+    top: -43%;
+}
+.caminho{
+	width: 43px;
+    height: 32px;
+    border-radius: 31%;
+    background-color: #8a807d;
+    position: relative;
+    left: 287px;
+    top: -29%;
+}
+.caminho2{
+	width: 43px;
+    height: 32px;
+    border-radius: 31%;
+    background-color: #8a807d;
+    position: relative;
+    left: 334px;
+    top: -29%;
+}
+.caminho3{
+	width: 43px;
+    height: 32px;
+    border-radius: 31%;
+    background-color: #8a807d;
+    position: relative;
+    left: 287px;
+    top: -29%;
+}
+.caminho4{
+	width: 43px;
+    height: 32px;
+    border-radius: 31%;
+    background-color: #8a807d;
+    position: relative;
+    left: 334px;
+    top: -29%;
+}
+.linha1{
+	width: 2px;
+    height: 156px;
+    background-color: #8a807d;
+    position: relative;
+    left: 281px;
+    top: -50%;
+}
+.linha2{
+	width: 2px;
+    height: 156px;
+    background-color: #8a807d;
+    position: relative;
+    left: 385px;
+    top: -73%;
+}
+.casa2 {
+    width: 400px;
+    height: 300px;
+    background-color: #cfe23ed6;
+    position: absolute;
+    bottom: 24%;
+    left: 707px;
+}
+.casa2_teto{
+    height: 11px;
+    width: 4px;
+    position: relative;
+    left: 706px;
+    top: -156%;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid #5a3838;
+}
+.casa2_teto2{
+    height: 11px;
+    width: 4px;
+    position: relative;
+    left: 1008px;
+    top: -171%;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid #5a3838;
+}
+.casa2_teto3{
+    height: 98px;
+    width: 300px;
+    background-color: #5a3838;
+    position: relative;
+    left: 760px;
+    top: -185% 
+}
+.casa2_porta{
+    width: 97px;
+    height: 197px;
+    background-color: #48281c;
+    position: relative;
+    left: 947px;
+    top: -171%;
+}
+.casa2_janela{
+    width: 110px;
+    height: 88px;
+    background-color: #151414ad;
+    position: relative;
+    top: -200%;
+    left: 779px;
+}
+.casa2_fechadura{
+    width: 15px;
+    height: 13px;
+    border-radius: 50%;
+    background-color: #8a807d;
+    position: relative;
+    left: -207px;
+    top: 779%;
+}
